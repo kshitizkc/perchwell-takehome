@@ -12,6 +12,7 @@ export default function ListingCard({ listing }: ListingProps) {
       className={" h-[328.81px] flex flex-col justify-between"}
       style={{
         background: `linear-gradient(180deg, rgba(0, 0, 0, 0) 51.56%, rgba(0, 0, 0, 0.68) 100%),url(${listing.media.large_image_list[0]})`,
+        backgroundSize: "contain",
       }}
     >
       {/* Ribbon Section */}

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1645998022033" clover="3.2.0">
-  <project timestamp="1645998022033" name="All files">
+<coverage generated="1645999900783" clover="3.2.0">
+  <project timestamp="1645999900784" name="All files">
     <metrics statements="71" coveredstatements="57" conditionals="6" coveredconditionals="0" methods="33" coveredmethods="16" elements="110" coveredelements="73" complexity="0" loc="71" ncloc="71" packages="3" files="18" classes="18"/>
     <package name="app">
       <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
@@ -36,7 +36,7 @@
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
         <line num="1" count="2" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
-        <line num="4" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
       </file>
     </package>
     <package name="app.pages">
@@ -60,14 +60,14 @@
         <line num="3" count="1" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
-        <line num="11" count="1" type="stmt"/>
-        <line num="31" count="1" type="stmt"/>
-        <line num="32" count="0" type="stmt"/>
-        <line num="35" count="1" type="stmt"/>
-        <line num="36" count="0" type="stmt"/>
-        <line num="38" count="1" type="stmt"/>
-        <line num="57" count="0" type="stmt"/>
-        <line num="69" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
       </file>
       <file name="PageNotFound.tsx" path="/Users/kkc/demo/perchwell-react/src/app/pages/PageNotFound.tsx">
         <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
@@ -108,10 +108,10 @@
       <metrics statements="14" coveredstatements="10" conditionals="6" coveredconditionals="0" methods="7" coveredmethods="0"/>
       <file name="ListingCard.tsx" path="/Users/kkc/demo/perchwell-react/src/common/ListingCard.tsx">
         <metrics statements="4" coveredstatements="3" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
-        <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
-        <line num="9" count="0" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
       </file>
       <file name="ListingRibbon.tsx" path="/Users/kkc/demo/perchwell-react/src/common/ListingRibbon.tsx">
         <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
@@ -130,7 +130,7 @@
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
       </file>
-      <file name="utils.tsx" path="/Users/kkc/demo/perchwell-react/src/common/utils.tsx">
+      <file name="utils.ts" path="/Users/kkc/demo/perchwell-react/src/common/utils.ts">
         <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="0" type="stmt"/>
