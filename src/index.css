@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "ABeeZee";
+  src: url("./assets/fonts/ABeeZee-Regular.ttf");
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("./assets/fonts/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+body {
+  font-size: 12px;
+  line-height: 1.25rem;
+}

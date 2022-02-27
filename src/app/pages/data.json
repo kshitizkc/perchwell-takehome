@@ -1,0 +1,1059 @@
+{
+    "total": 71522,
+    "listings": [
+        {
+            "id": 695056,
+            "location": {
+                "address": "70 Little West Street",
+                "address_with_unit": "70 Little West St. 28C",
+                "city": "New York",
+                "coordinates": [
+                    40.706976,
+                    -74.016962
+                ],
+                "place": "Battery Park",
+                "state": "NY",
+                "zip": "10282",
+                "cross_streets": [
+                    "2nd Pl.",
+                    "3rd Pl."
+                ]
+            },
+            "agents": [
+                {
+                    "cell_phone": "",
+                    "email": "claire.oleary@sothebyshomes.com",
+                    "first_name": "Claire",
+                    "last_name": "O'Leary",
+                    "office_phone": "(212) 606-7660",
+                    "phone": "(212) 606-7660"
+                }
+            ],
+            "media": {
+                "large_image_list": [
+                    "https://assets-staging.perchwell.com/assets/placeholders/680x410x2-983ef8c718c222ec2b39f57115ed340fc3162099e812ff77afe2ebb251891aef.png"
+                ],
+                "original_image_list": []
+            },
+            "public_documents": [],
+            "listing_details": {
+                "brokerage": "Sotheby's International Realty",
+                "brokerage_id": 1824,
+                "office": "East Side Manhattan Brokerage",
+                "current_price": 2385000,
+                "details_last_updated": "2013-03-21T00:00:00.000-04:00",
+                "description": "Be mesmerized by one of the most sought after views of Manhattan's Hudson River and Statue of Liberty. Perched on the 28th floor of the fashionable Visionaire, this oasis is filled with sunlight beaming through the modern floor-to-ceiling windows.    Visionaire apartments are platinum LEED for their energy efficiency and sustainability.  The apartment features wood floors, washer/dryer, and an inviting open kitchen with a breakfast bar and top of the line appliances with plenty of counter space.      Amenities include concierge and doorman service, a skylit indoor swimming pool and hot tub, two landscaped roof gardens with private cabanas, a rooftop entertainment area featuring built-in grills and a wet bar, a state-of-the-art fitness center and spa, yoga studios, a screening room and lounge with a fireplace, a private dining area, a children's playroom and a parking garage.  This is Battery Park City at its best!!",
+                "list_date": "2012-08-27T00:00:00.000-04:00",
+                "listing_type": "S",
+                "listing_url": "http://www.sothebyshomes.com",
+                "original_price": 2400000,
+                "status": "Expired",
+                "approval_status": "Live",
+                "updated_at": "2022-02-26T07:08:36.086-05:00",
+                "commission_total": 3
+            },
+            "rental_details": {},
+            "unit_details": {
+                "beds": 2,
+                "floor_number": 28,
+                "full_baths": 2,
+                "general_condition": "Excellent",
+                "half_baths": 0,
+                "maint_cc": 1785,
+                "max_financing_pct": 90,
+                "pct_tax_deductable": 0,
+                "property_type": "Condo",
+                "real_estate_tax": 1698,
+                "total_monthlies": 3483,
+                "sqft": 1350,
+                "total_rooms": 4,
+                "unit_number": "28C",
+                "width": "200'"
+            },
+            "unit_amenities": {
+                "balcony": false,
+                "central_ac": true,
+                "den": false,
+                "fireplace": false,
+                "foyer": true,
+                "garden": false,
+                "laundry": true,
+                "outdoor_space": false,
+                "terrace": false
+            },
+            "building_details": {
+                "building_class": "RM",
+                "building_name": "The Visionaire",
+                "total_stories": 33,
+                "total_units": 245,
+                "year_built": 2008,
+                "lot_width": "198'",
+                "lot_depth": "200'"
+            },
+            "building_amenities": {
+                "bike_storage": true,
+                "building_laundry": false,
+                "building_storage": true,
+                "concierge": true,
+                "doorman": true,
+                "elevator": true,
+                "garage": true,
+                "garden": false,
+                "gym": true,
+                "pets": true,
+                "pool": true,
+                "prewar": false,
+                "rooftop": true
+            },
+            "views_and_exposures": {
+                "water_view": true
+            },
+            "features": {
+                "new_development": false,
+                "sponsor_unit": false
+            },
+            "policies": {
+                "pied_a_terre": true,
+                "renting_allowed": true
+            }
+        },
+        {
+            "id": 694896,
+            "location": {
+                "address": "40 Riverside Drive",
+                "address_with_unit": "40 Riverside Dr. B",
+                "city": "New York",
+                "coordinates": [
+                    40.783203,
+                    -73.984151
+                ],
+                "place": "Upper West Side",
+                "state": "NY",
+                "zip": "10023",
+                "cross_streets": [
+                    "West 76th St.",
+                    "West 77th St."
+                ]
+            },
+            "agents": [
+                {
+                    "cell_phone": "917-364-2371",
+                    "email": "elizabeth.sample@sothebyshomes.com",
+                    "first_name": "Elizabeth L.",
+                    "image_url": "https://s3.amazonaws.com/perchwell_staging/users/pictures/000/010/071/large/76b46cca-3ae1-45bb-99bd-9eacb553e046.jpg?1516837985",
+                    "last_name": "Sample",
+                    "office_phone": "(212) 606-7685",
+                    "phone": "917-364-2371",
+                    "title": "Associate Broker",
+                    "url": "http://www.sothebyshomes.com"
+                }
+            ],
+            "media": {
+                "large_image_list": [
+                    "https://assets-staging.perchwell.com/assets/placeholders/680x410x2-983ef8c718c222ec2b39f57115ed340fc3162099e812ff77afe2ebb251891aef.png"
+                ],
+                "original_image_list": []
+            },
+            "public_documents": [],
+            "listing_details": {
+                "brokerage": "Sotheby's International Realty",
+                "brokerage_id": 1824,
+                "office": "East Side Manhattan Brokerage",
+                "current_price": 6475000,
+                "details_last_updated": "2012-11-29T00:00:00.000-05:00",
+                "description": "Modern loft with soaring ceilings and great light in one of the most architecturally significant townhouses on the Upper West Side. This apartment has its own private terrace and garden. Designed by famed architect Clarence True, he chose this piece of work to become his personal residence. Situated on the grand high point of Riverside Drive, this townhouse has incredible views of both Riverside Park and the Hudson River. With a round corner turret bar of windows and the corner lot placement, the unit is filled with sun light all day long. The townhouse has an extraordinary history, including once being a school and housing Marc Chagall. Offered for sale as an individual coop unit and as a townhouse in its entirety.    Unit B        Apartment #1E     (studio) Shares: 105                            Apartment #4        Shares: 326",
+                "list_date": "2012-04-26T00:00:00.000-04:00",
+                "listing_type": "S",
+                "listing_url": "http://www.sothebyshomes.com",
+                "original_price": 6475000,
+                "status": "Expired",
+                "approval_status": "Live",
+                "updated_at": "2022-02-26T07:08:35.858-05:00",
+                "commission_total": 3
+            },
+            "rental_details": {},
+            "unit_details": {
+                "beds": 3,
+                "configuration": "loft",
+                "floor_number": 5,
+                "full_baths": 3,
+                "half_baths": 1,
+                "maint_cc": 3426,
+                "max_financing_pct": 0,
+                "pct_tax_deductable": 0,
+                "property_type": "Co-op",
+                "real_estate_tax": 3030,
+                "total_monthlies": 6456,
+                "total_rooms": 6,
+                "unit_number": "B",
+                "width": "32'"
+            },
+            "unit_amenities": {
+                "balcony": false,
+                "central_ac": true,
+                "den": false,
+                "fireplace": true,
+                "formal_dining_room": true,
+                "foyer": true,
+                "galley_kitchen": true,
+                "garden": false,
+                "laundry": true,
+                "library": true,
+                "outdoor_space": true,
+                "terrace": true
+            },
+            "building_details": {
+                "building_class": "D4",
+                "building_name": "",
+                "total_stories": 6,
+                "total_units": 1,
+                "year_built": 1896,
+                "lot_width": "32'",
+                "lot_depth": "53'"
+            },
+            "building_amenities": {
+                "bike_storage": false,
+                "building_laundry": false,
+                "building_storage": false,
+                "doorman": false,
+                "elevator": true,
+                "garage": false,
+                "garden": false,
+                "gym": true,
+                "pets": true,
+                "pool": false,
+                "prewar": true,
+                "rooftop": true
+            },
+            "views_and_exposures": {
+                "skyline_view": true,
+                "water_view": true
+            },
+            "features": {
+                "new_development": false,
+                "sponsor_unit": false
+            },
+            "policies": {}
+        },
+        {
+            "id": 694780,
+            "location": {
+                "address": "4 East 70th Street",
+                "address_with_unit": "4 East 70<sup>th</sup> St. 8D/9D",
+                "city": "New York",
+                "coordinates": [
+                    40.770618,
+                    -73.96732
+                ],
+                "place": "Lenox Hill",
+                "state": "NY",
+                "zip": "10021",
+                "cross_streets": [
+                    "Fifth Ave.",
+                    "Madison Ave."
+                ]
+            },
+            "agents": [
+                {
+                    "cell_phone": "",
+                    "email": "nikki.field@sothebyshomes.com",
+                    "first_name": "Nikki",
+                    "image_url": "https://s3.amazonaws.com/perchwell_staging/users/pictures/000/009/935/large/Nikki_Field_-_web.jpg?1522419179",
+                    "last_name": "Field",
+                    "office_phone": "(212) 606-7669",
+                    "phone": "(212) 606-7669",
+                    "title": "Associate Broker",
+                    "url": "http://www.sothebyshomes.com"
+                }
+            ],
+            "media": {
+                "large_image_list": [
+                    "https://assets-staging.perchwell.com/assets/placeholders/680x410x2-983ef8c718c222ec2b39f57115ed340fc3162099e812ff77afe2ebb251891aef.png"
+                ],
+                "original_image_list": []
+            },
+            "public_documents": [],
+            "listing_details": {
+                "brokerage": "Sotheby's International Realty",
+                "brokerage_id": 1824,
+                "office": "East Side Manhattan Brokerage",
+                "current_price": 3200000,
+                "details_last_updated": "2012-09-10T00:00:00.000-04:00",
+                "description": "Showings Begin Monday, March 12th    This stunning, turn-key, all new renovated duplex residence is located in the prestigious Cooperative at 4 East 70th Street, directly across from The Frick Collection. A gracious Entry with limestone floors leads to the intimate Dining Area with herringbone floors and an adjoining Kitchen designed by Christopher Peacock with custom cabinetry, Thassos marble counters and backsplash, Subzero refrigerator and Miele dishwasher. The elegant Living Room wrapped in all new windows features a decorative Fireplace and is ideal for entertaining. This floor also features a large Bedroom with a walk-in closet and en-suite Bathroom with Venetian Plaster walls. A timeless spindle staircase with custom wood paneled walls leads to the enchanting top floor. The stylish Master Bedroom Suite includes a grand windowed Dressing Room with 5 large closets and a marble spa Bathroom with Waterworks fixtures and built-in dressing table. Behind frosted glass pocket doors is a handsome Study with lacquered walls and wired for sound. Additional features include; oversized vented Whirlpool Washer/Dryer, 12 custom-built closets by Forte, Waterworks fixtures, exposed beams, and thru-the-wall A/C throughout. 2 separate storage bins included. This is a rare opportunity to own an exquisite home in New York on one of the quietest, most prestigious blocks off Fifth Avenue.  The residence was designed by famed designers Aman & Carson and built by Forte Remodeling; one of the top luxury contracting firms in Manhattan. Aman & Carson s recent accolades include: The covers of Architectural Digest and Elle D cor, and were chosen several times by House Beautiful as one of  America s Top 100 Designers in America.  Both Aman & Carson and Forte were intimately involved in every stage of this apartment s renovation; the attention to detail; the quality of the aesthetic and materials used reflect their talent and commitment to excellence. The current owner s care and upkeep of this magnificent home are a testament to its unique beauty.  This Art Deco building was constructed in 1938 with only 37 apartments and is a well-established Cooperative with full services and a resident manager. This unique property is located on one of the most desirable blocks in New York City, steps from Central Park, flagship boutiques, and fine dining. Pets are welcome upon approval. Pied-a-terre purchase permitted.",
+                "list_date": "2012-03-09T00:00:00.000-05:00",
+                "listing_type": "S",
+                "listing_url": "http://www.sothebyshomes.com",
+                "original_price": 3200000,
+                "status": "Expired",
+                "approval_status": "Live",
+                "updated_at": "2022-02-26T07:08:35.590-05:00",
+                "commission_total": 3
+            },
+            "rental_details": {},
+            "unit_details": {
+                "beds": 3,
+                "configuration": "duplex",
+                "floor_number": 9,
+                "full_baths": 2,
+                "general_condition": "Mint",
+                "half_baths": 0,
+                "maint_cc": 3893,
+                "max_financing_pct": 40,
+                "pct_tax_deductable": 42,
+                "property_type": "Co-op",
+                "real_estate_tax": 0,
+                "total_monthlies": 3893,
+                "total_rooms": 6,
+                "unit_number": "8D/9D",
+                "width": "69'"
+            },
+            "unit_amenities": {
+                "balcony": false,
+                "den": true,
+                "fireplace": false,
+                "foyer": true,
+                "galley_kitchen": true,
+                "garden": false,
+                "laundry": true,
+                "outdoor_space": false,
+                "terrace": false
+            },
+            "building_details": {
+                "building_class": "D4",
+                "flip_tax_description": "$7.00/share (going up to $17/share)",
+                "total_stories": 13,
+                "total_units": 36,
+                "year_built": 1937,
+                "lot_width": "69' 3\"",
+                "lot_depth": "100'"
+            },
+            "building_amenities": {
+                "bike_storage": false,
+                "building_laundry": true,
+                "building_storage": true,
+                "concierge": true,
+                "doorman": true,
+                "elevator": true,
+                "garage": false,
+                "garden": false,
+                "gym": false,
+                "pets": false,
+                "pool": false,
+                "prewar": true,
+                "rooftop": false
+            },
+            "views_and_exposures": {},
+            "features": {
+                "new_development": false,
+                "sponsor_unit": false
+            },
+            "policies": {}
+        },
+        {
+            "id": 694768,
+            "location": {
+                "address": "135 West 58th Street",
+                "address_with_unit": "135 West 58<sup>th</sup> St. 9B",
+                "city": "New York",
+                "coordinates": [
+                    40.76571,
+                    -73.977799
+                ],
+                "place": "Central Park South",
+                "state": "NY",
+                "zip": "10019",
+                "cross_streets": [
+                    "Avenue Of The Americas",
+                    "Seventh Ave."
+                ]
+            },
+            "agents": [
+                {
+                    "cell_phone": "(917) 886-8850",
+                    "email": "kevin.brown@sothebyshomes.com",
+                    "first_name": "Kevin B.",
+                    "image_url": "https://s3.amazonaws.com/perchwell_staging/users/pictures/000/009/890/large/f69cf0bb-0320-4e5d-8d39-3bc9b0307acc.jpg?1516837045",
+                    "last_name": "Brown",
+                    "office_phone": "(212) 606-7748",
+                    "phone": "(917) 886-8850",
+                    "title": "Associate Broker",
+                    "url": "http://www.sothebyshomes.com"
+                }
+            ],
+            "media": {
+                "large_image_list": [
+                    "https://assets-staging.perchwell.com/assets/placeholders/680x410x2-983ef8c718c222ec2b39f57115ed340fc3162099e812ff77afe2ebb251891aef.png"
+                ],
+                "original_image_list": []
+            },
+            "public_documents": [],
+            "listing_details": {
+                "brokerage": "Sotheby's International Realty",
+                "brokerage_id": 1824,
+                "office": "East Side Manhattan Brokerage",
+                "current_price": 595000,
+                "details_last_updated": "2012-07-24T00:00:00.000-04:00",
+                "description": "Tastefully renovated 1 Bedroom Condop Apartment available immediately. A gracious foyer reveals a fantastic south facing living room with fireplace and Juliette Balcony. The quiet and private master features great closet space and a generous light filled window. The windowed kitchen and bath have both been fully renovated using only the finest finishes and fixtures without overlooking any details. This apartment is a perfect pied e terre or residence for anyone who desires only the best Manhattan has to offer. This pet friendly doorman building features a laundry room and a live in super. Please contact Andrew for a showing at Andrew.gust@sothebyshomes.com",
+                "list_date": "2012-03-06T00:00:00.000-05:00",
+                "listing_type": "S",
+                "listing_url": "http://www.sothebyshomes.com",
+                "original_price": 595000,
+                "status": "Expired",
+                "approval_status": "Live",
+                "updated_at": "2022-02-26T07:08:35.322-05:00",
+                "commission_total": 3
+            },
+            "rental_details": {},
+            "unit_details": {
+                "beds": 1,
+                "floor_number": 9,
+                "full_baths": 1,
+                "general_condition": "Excellent",
+                "half_baths": 0,
+                "maint_cc": 1274,
+                "max_financing_pct": 80,
+                "pct_tax_deductable": 52,
+                "property_type": "Co-op",
+                "real_estate_tax": 0,
+                "total_monthlies": 1274,
+                "total_rooms": 4,
+                "unit_number": "9B",
+                "width": "50'"
+            },
+            "unit_amenities": {
+                "balcony": false,
+                "den": false,
+                "fireplace": false,
+                "foyer": false,
+                "garden": false,
+                "laundry": true,
+                "outdoor_space": true,
+                "terrace": false
+            },
+            "building_details": {
+                "building_class": "RM",
+                "flip_tax_description": "yes, $8 per share",
+                "total_stories": 9,
+                "total_units": 34,
+                "year_built": 1911,
+                "lot_width": "50'",
+                "lot_depth": "101'"
+            },
+            "building_amenities": {
+                "bike_storage": true,
+                "building_laundry": true,
+                "building_storage": true,
+                "courtyard": true,
+                "doorman": true,
+                "elevator": true,
+                "garage": false,
+                "garden": false,
+                "gym": false,
+                "pets": true,
+                "pool": false,
+                "prewar": true,
+                "rooftop": false
+            },
+            "views_and_exposures": {
+                "skyline_view": true
+            },
+            "features": {
+                "new_development": false,
+                "sponsor_unit": false
+            },
+            "policies": {
+                "pied_a_terre": true,
+                "renting_allowed": true
+            }
+        },
+        {
+            "id": 694431,
+            "location": {
+                "address": "2 River Terrace",
+                "address_with_unit": "2 River Terrace 11H",
+                "city": "New York",
+                "coordinates": [
+                    40.715635,
+                    -74.0161
+                ],
+                "place": "Battery Park",
+                "state": "NY",
+                "zip": "10282",
+                "cross_streets": [
+                    "Murray St."
+                ]
+            },
+            "agents": [
+                {
+                    "cell_phone": "(917) 520-8519",
+                    "email": "harry.nasser@sothebyshomes.com",
+                    "first_name": "Harry",
+                    "image_url": "https://s3.amazonaws.com/perchwell_staging/users/pictures/000/010/038/large/44bc90c7-f73c-4f68-8c0b-c53b79b98cfa.jpg?1516837888",
+                    "last_name": "Nasser",
+                    "office_phone": "(212) 400-8724",
+                    "phone": "(917) 520-8519",
+                    "title": "Associate Broker",
+                    "url": "http://www.sothebyshomes.com"
+                }
+            ],
+            "media": {
+                "large_image_list": [
+                    "https://assets-staging.perchwell.com/assets/placeholders/680x410x2-983ef8c718c222ec2b39f57115ed340fc3162099e812ff77afe2ebb251891aef.png"
+                ],
+                "original_image_list": []
+            },
+            "public_documents": [],
+            "listing_details": {
+                "brokerage": "Sotheby's International Realty",
+                "brokerage_id": 1824,
+                "office": "East Side Manhattan Brokerage",
+                "current_price": 3700000,
+                "details_last_updated": "2012-06-14T00:00:00.000-04:00",
+                "description": "One Rockefeller Park is the most sought after white-glove residence waterfront green condominium in Battery Park City. This unit is located on the Southwest corner with 3 bedrooms, 4 baths, a perfect perched with panoramic views of the Hudson River, Statue of Liberty and Rockefeller Park offering breathtaking views and inspiring sunsets. The floor plan has the flexibility to be a large 3 bedroom home or a grand 2 bedroom with separate den leading to the great room through an over sized pocket door. Split bedrooms, abundant kitchen storage, and a large walk-in utility room with Bosch washer and dryer. A definite must see for anyone looking for luxury waterfront living in the heart of Manhattan's downtown with the added benefit of living Green.",
+                "list_date": "2011-10-20T00:00:00.000-04:00",
+                "listing_type": "S",
+                "listing_url": "http://www.sothebyshomes.com",
+                "original_price": 3700000,
+                "status": "Expired",
+                "approval_status": "Live",
+                "updated_at": "2022-02-26T07:08:35.052-05:00",
+                "commission_total": 3
+            },
+            "rental_details": {},
+            "unit_details": {
+                "beds": 3,
+                "floor_number": 11,
+                "full_baths": 4,
+                "general_condition": "Mint",
+                "half_baths": 0,
+                "maint_cc": 2212,
+                "max_financing_pct": 90,
+                "pct_tax_deductable": 0,
+                "property_type": "Condo",
+                "real_estate_tax": 2100,
+                "total_monthlies": 4312,
+                "sqft": 1978,
+                "total_rooms": 5,
+                "unit_number": "11H",
+                "width": "236'"
+            },
+            "unit_amenities": {
+                "balcony": false,
+                "central_ac": true,
+                "den": false,
+                "eat_in_kitchen": true,
+                "fireplace": false,
+                "foyer": true,
+                "garden": false,
+                "laundry": false,
+                "outdoor_space": true,
+                "terrace": false
+            },
+            "building_details": {
+                "building_class": "RM",
+                "building_name": "Riverhouse",
+                "flip_tax_description": "1% by seller",
+                "total_stories": 31,
+                "total_units": 243,
+                "year_built": 2007,
+                "lot_width": "164'",
+                "lot_depth": "248'"
+            },
+            "building_amenities": {
+                "bike_storage": false,
+                "building_laundry": true,
+                "building_storage": false,
+                "concierge": true,
+                "courtyard": true,
+                "doorman": true,
+                "elevator": true,
+                "garage": true,
+                "garden": false,
+                "gym": true,
+                "pets": true,
+                "pool": true,
+                "prewar": false,
+                "rooftop": false
+            },
+            "views_and_exposures": {
+                "park_view": true,
+                "skyline_view": true,
+                "water_view": true
+            },
+            "features": {
+                "new_development": false,
+                "sponsor_unit": false
+            },
+            "policies": {
+                "pied_a_terre": true,
+                "renting_allowed": true
+            }
+        },
+        {
+            "id": 694311,
+            "location": {
+                "address": "430 East 57th Street",
+                "address_with_unit": "430 East 57<sup>th</sup> St. PHC",
+                "city": "New York",
+                "coordinates": [
+                    40.757567,
+                    -73.961947
+                ],
+                "place": "Sutton",
+                "state": "NY",
+                "zip": "10022",
+                "cross_streets": [
+                    "First Ave.",
+                    "Sutton Pl."
+                ]
+            },
+            "agents": [
+                {
+                    "email": "melinda.nix@sothebyshomes.com",
+                    "first_name": "Melinda G",
+                    "image_url": "https://s3.amazonaws.com/perchwell_staging/users/pictures/000/010/040/large/405fcc99-3f07-4e13-9ade-8c2f7ee49c29.jpg?1516837894",
+                    "last_name": "Nix",
+                    "office_phone": "(212) 606-7719",
+                    "phone": "(212) 606-7719",
+                    "title": "Associate Broker",
+                    "url": "http://www.sothebyshomes.com"
+                }
+            ],
+            "media": {
+                "large_image_list": [
+                    "https://assets-staging.perchwell.com/assets/placeholders/680x410x2-983ef8c718c222ec2b39f57115ed340fc3162099e812ff77afe2ebb251891aef.png"
+                ],
+                "original_image_list": []
+            },
+            "public_documents": [],
+            "listing_details": {
+                "brokerage": "Sotheby's International Realty",
+                "brokerage_id": 1824,
+                "office": "East Side Manhattan Brokerage",
+                "current_price": 2950000,
+                "details_last_updated": "2012-09-24T00:00:00.000-04:00",
+                "description": "Savor Manhattan living at its best in this pristine dreamy penthouse home. Featured in Elle D cor, House and Garden, and House Beautiful, this two-bedroom jewel box is perfectly renovated and offered in triple mint condition. Custom-fitted marble and tile bathrooms. Expansive irrigated landscaped terraces afford extraordinary skyline views, a true Hollywood setting perfect for private enjoyment and grand entertaining. There is access to this heavenly outdoor space through enormous French doors with classic brass fittings.  Located in the desirable Sutton Place area in a top prewar full service cooperative building.    No detail overlooked in the restoration, including crown mouldings, classic wood floors, and a working wood-burning Louis XV style white marble fireplace in the sizeable living room. Off the separate dining room is a state of the art kitchen. This features the finest custom cabinets and finishes, a Viking stove, Sub Zero refrigerator, and washer/dryer. This gem of an apartment exudes the finest taste in a classic traditional style.    Sybille Novack SVP 212-606-7693 / Sybille.Novack@Sothebyshomes.com  Melinda Nix SVP 212-606-7719 / Melinda.Nix@Sothebyshomes.com",
+                "list_date": "2011-09-06T00:00:00.000-04:00",
+                "listing_type": "S",
+                "listing_url": "http://www.sothebyshomes.com",
+                "original_price": 3375000,
+                "status": "Expired",
+                "approval_status": "Live",
+                "updated_at": "2022-02-26T07:08:34.382-05:00",
+                "commission_total": 3
+            },
+            "rental_details": {},
+            "unit_details": {
+                "beds": 2,
+                "floor_number": 16,
+                "full_baths": 2,
+                "general_condition": "Mint",
+                "half_baths": 0,
+                "maint_cc": 4654,
+                "max_financing_pct": 50,
+                "pct_tax_deductable": 41,
+                "property_type": "Co-op",
+                "real_estate_tax": 0,
+                "total_monthlies": 4654,
+                "total_rooms": 5,
+                "unit_number": "PHC",
+                "width": "88'"
+            },
+            "unit_amenities": {
+                "balcony": false,
+                "den": false,
+                "fireplace": false,
+                "formal_dining_room": true,
+                "foyer": true,
+                "garden": false,
+                "laundry": true,
+                "outdoor_space": true,
+                "penthouse": true,
+                "terrace": true,
+                "windowed_kitchen": true
+            },
+            "building_details": {
+                "building_class": "D4",
+                "flip_tax_description": "2%: payable by buyer",
+                "total_stories": 15,
+                "total_units": 60,
+                "year_built": 1926,
+                "lot_width": "88' 5\"",
+                "lot_depth": "117'"
+            },
+            "building_amenities": {
+                "bike_storage": true,
+                "building_laundry": true,
+                "building_storage": true,
+                "courtyard": true,
+                "doorman": true,
+                "elevator": true,
+                "garage": false,
+                "garden": false,
+                "gym": true,
+                "pets": true,
+                "pool": false,
+                "prewar": false,
+                "rooftop": false
+            },
+            "views_and_exposures": {
+                "skyline_view": true
+            },
+            "features": {
+                "new_development": false,
+                "sponsor_unit": false
+            },
+            "policies": {}
+        },
+        {
+            "id": 694101,
+            "location": {
+                "address": "2082 Eighth Avenue",
+                "address_with_unit": "2082 Eighth Ave. 2B",
+                "city": "New York",
+                "coordinates": [
+                    40.802193,
+                    -73.956585
+                ],
+                "place": "Harlem",
+                "state": "NY",
+                "zip": "10026",
+                "cross_streets": [
+                    "West 112th St.",
+                    "West 113th St."
+                ]
+            },
+            "agents": [
+                {
+                    "cell_phone": "",
+                    "email": "unikim.cregan@sothebyshomes.com",
+                    "first_name": "Uni-Kim",
+                    "last_name": "Cregan",
+                    "office_phone": "(212) 606-7659",
+                    "phone": "(212) 606-7659"
+                }
+            ],
+            "media": {
+                "large_image_list": [
+                    "https://assets-staging.perchwell.com/assets/placeholders/680x410x2-983ef8c718c222ec2b39f57115ed340fc3162099e812ff77afe2ebb251891aef.png"
+                ],
+                "original_image_list": []
+            },
+            "public_documents": [],
+            "listing_details": {
+                "brokerage": "Sotheby's International Realty",
+                "brokerage_id": 1824,
+                "office": "East Side Manhattan Brokerage",
+                "contract_date": "2012-05-21T00:00:00.000-04:00",
+                "contract_price": 270000,
+                "current_price": 270000,
+                "details_last_updated": "2012-07-23T00:00:00.000-04:00",
+                "description": "Fully renovated one bedroom condo with beautiful oak hardwood floors and granite kitchen tops. Very close to Central Park , subways, cafes, restaurants, and bars.  Must see!  Ther will be a $240 assessment  for one year,   property tax $50.",
+                "list_date": "2011-05-16T00:00:00.000-04:00",
+                "listing_type": "S",
+                "listing_url": "http://www.sothebyshomes.com",
+                "original_price": 310000,
+                "status": "Expired",
+                "approval_status": "Live",
+                "updated_at": "2022-02-26T07:08:33.723-05:00",
+                "commission_total": 3
+            },
+            "rental_details": {},
+            "unit_details": {
+                "beds": 1,
+                "floor_number": 2,
+                "full_baths": 1,
+                "general_condition": "Triple Mint",
+                "half_baths": 0,
+                "maint_cc": 240,
+                "pct_tax_deductable": 0,
+                "property_type": "Condo",
+                "real_estate_tax": 250,
+                "total_monthlies": 490,
+                "sqft": 450,
+                "total_rooms": 3,
+                "unit_number": "2B",
+                "width": "25'"
+            },
+            "unit_amenities": {
+                "balcony": false,
+                "central_ac": true,
+                "den": false,
+                "fireplace": false,
+                "foyer": true,
+                "garden": false,
+                "laundry": false,
+                "outdoor_space": false,
+                "terrace": false
+            },
+            "building_details": {
+                "building_class": "RM",
+                "building_name": "",
+                "total_stories": 5,
+                "total_units": 14,
+                "year_built": 1900,
+                "lot_width": "25'",
+                "lot_depth": "97'"
+            },
+            "building_amenities": {
+                "bike_storage": true,
+                "building_laundry": true,
+                "building_storage": true,
+                "doorman": false,
+                "elevator": false,
+                "garage": false,
+                "garden": false,
+                "gym": false,
+                "pets": true,
+                "pool": false,
+                "prewar": false,
+                "rooftop": false
+            },
+            "views_and_exposures": {},
+            "features": {
+                "new_development": false,
+                "sponsor_unit": false
+            },
+            "policies": {}
+        },
+        {
+            "id": 694090,
+            "location": {
+                "address": "1 Beekman Place",
+                "address_with_unit": "1 Beekman Place MAISONETTE",
+                "city": "New York",
+                "coordinates": [
+                    40.752786,
+                    -73.96477
+                ],
+                "place": "Beekman",
+                "state": "NY",
+                "zip": "10022",
+                "cross_streets": [
+                    "Mitchell Pl.",
+                    "East 50th St."
+                ]
+            },
+            "agents": [
+                {
+                    "cell_phone": "",
+                    "email": "roger.erickson@sothebyshomes.com",
+                    "first_name": "J. Roger",
+                    "last_name": "Erickson",
+                    "office_phone": "(212) 606-7612",
+                    "phone": "(212) 606-7612"
+                }
+            ],
+            "media": {
+                "large_image_list": [
+                    "https://assets-staging.perchwell.com/assets/placeholders/680x410x2-983ef8c718c222ec2b39f57115ed340fc3162099e812ff77afe2ebb251891aef.png"
+                ],
+                "original_image_list": []
+            },
+            "public_documents": [],
+            "listing_details": {
+                "brokerage": "Sotheby's International Realty",
+                "brokerage_id": 1824,
+                "office": "East Side Manhattan Brokerage",
+                "current_price": 9750000,
+                "details_last_updated": "2013-04-17T00:00:00.000-04:00",
+                "description": "One of the finest residences in Manhattan, this prewar apartment building was built by John D. Rockefeller in 1929 as a retreat for his friends and family. It is centrally located in Beekman Place, a coveted oasis easily accessible yet offering supreme privacy. This mint condition four bedroom duplex maisonette features its own grand private entrance as well as one through the attended lobby. It offers the unique opportunity to enjoy townhouse living with all the amenities of coop ownership. A magnificent riverfront terrace off the living room and library overlooks private gardens and the East River. Special features include a beautiful formal dining room, huge kitchen with breakfast room, 3 fireplaces, central air and humidification, central stereo, and an architecturally stunning curved staircase that connects the 2 floors. This white glove building provides full time doormen, attended elevators, a parking garage, swimming pool, basketball court, squash court and fitness center.",
+                "list_date": "2011-05-11T00:00:00.000-04:00",
+                "listing_type": "S",
+                "listing_url": "http://www.sothebyshomes.com",
+                "original_price": 10750000,
+                "status": "Permanently Off Market",
+                "approval_status": "Live",
+                "updated_at": "2022-02-26T07:08:33.274-05:00",
+                "commission_total": 3
+            },
+            "rental_details": {},
+            "unit_details": {
+                "beds": 4,
+                "configuration": "maisonette",
+                "floor_number": 2,
+                "full_baths": 5,
+                "general_condition": "Excellent",
+                "half_baths": 1,
+                "maint_cc": 10145,
+                "max_financing_pct": 0,
+                "pct_tax_deductable": 30,
+                "property_type": "Co-op",
+                "real_estate_tax": 0,
+                "total_monthlies": 10145,
+                "sqft": 5182,
+                "total_rooms": 11,
+                "unit_number": "MAISONETTE",
+                "width": "140'"
+            },
+            "unit_amenities": {
+                "balcony": false,
+                "central_ac": true,
+                "den": true,
+                "eat_in_kitchen": true,
+                "fireplace": true,
+                "formal_dining_room": true,
+                "foyer": true,
+                "garden": false,
+                "laundry": true,
+                "library": true,
+                "outdoor_space": true,
+                "terrace": true,
+                "windowed_kitchen": true
+            },
+            "building_details": {
+                "building_class": "D4",
+                "flip_tax_description": "buyer pays buyer pays buyer pays buyer pays buyer pays buyer",
+                "total_stories": 17,
+                "total_units": 136,
+                "year_built": 1931,
+                "lot_width": "140'",
+                "lot_depth": "153'"
+            },
+            "building_amenities": {
+                "bike_storage": false,
+                "building_laundry": false,
+                "building_storage": true,
+                "concierge": true,
+                "courtyard": true,
+                "doorman": true,
+                "elevator": true,
+                "garage": true,
+                "garden": false,
+                "gym": true,
+                "pets": true,
+                "pool": true,
+                "prewar": false,
+                "rooftop": false
+            },
+            "views_and_exposures": {
+                "water_view": true
+            },
+            "features": {
+                "new_development": false,
+                "sponsor_unit": false
+            },
+            "policies": {
+                "board_approval_required": true,
+                "renting_allowed": true
+            }
+        },
+        {
+            "id": 693956,
+            "location": {
+                "address": "340 East 80th Street",
+                "address_with_unit": "340 East 80<sup>th</sup> St. PHA",
+                "city": "New York",
+                "coordinates": [
+                    40.772892,
+                    -73.952879
+                ],
+                "place": "Yorkville",
+                "state": "NY",
+                "zip": "10021",
+                "cross_streets": [
+                    "Second Ave.",
+                    "First Ave."
+                ]
+            },
+            "agents": [
+                {
+                    "cell_phone": "",
+                    "email": "pauline.evans@sothebyshomes.com",
+                    "first_name": "Pauline",
+                    "last_name": "Evans",
+                    "office_phone": "(212) 400-8740",
+                    "phone": "(212) 400-8740"
+                }
+            ],
+            "media": {
+                "large_image_list": [
+                    "https://assets-staging.perchwell.com/assets/placeholders/680x410x2-983ef8c718c222ec2b39f57115ed340fc3162099e812ff77afe2ebb251891aef.png"
+                ],
+                "original_image_list": []
+            },
+            "public_documents": [],
+            "listing_details": {
+                "brokerage": "Sotheby's International Realty",
+                "brokerage_id": 1824,
+                "office": "East Side Manhattan Brokerage",
+                "current_price": 699000,
+                "details_last_updated": "2011-09-22T00:00:00.000-04:00",
+                "description": "Penthouse A is a large sunny one bedroom convertible 2 bedrooms and boasts a large North and East facing terrace.  This residence features a windowed, renovated Stainless Steel kitchen with GE Profile appliances, excellent closets including a large walk in closet in the master bedroom and unobstructed city views. The hallways and elevators have recently been renovated. This 24 hour doorman full service co-op has an indoor/outdoor children's playroom, fitness center, storage bins, garage and is pet friendly. The building features a Courtyard, Exercise Room, Private Storage, Child Room, Central Laundry, Cable TV, Internet, Package Room, Health Club.",
+                "list_date": "2011-03-22T00:00:00.000-04:00",
+                "listing_type": "S",
+                "listing_url": "http://www.sothebyshomes.com",
+                "original_price": 795000,
+                "status": "Expired",
+                "approval_status": "Live",
+                "updated_at": "2022-02-26T07:08:31.706-05:00",
+                "commission_total": 2.5
+            },
+            "rental_details": {},
+            "unit_details": {
+                "beds": 1,
+                "floor_number": 21,
+                "full_baths": 1,
+                "general_condition": "Very Good",
+                "half_baths": 0,
+                "maint_cc": 1886,
+                "max_financing_pct": 80,
+                "pct_tax_deductable": 58,
+                "property_type": "Co-op",
+                "real_estate_tax": 0,
+                "total_monthlies": 1886,
+                "total_rooms": 3.5,
+                "unit_number": "PHA",
+                "width": "98' 10\""
+            },
+            "unit_amenities": {
+                "balcony": false,
+                "den": false,
+                "fireplace": false,
+                "foyer": true,
+                "galley_kitchen": true,
+                "garden": false,
+                "laundry": true,
+                "outdoor_space": true,
+                "penthouse": true,
+                "terrace": true
+            },
+            "building_details": {
+                "building_class": "D4",
+                "building_name": "",
+                "total_stories": 21,
+                "total_units": 440,
+                "year_built": 1961,
+                "lot_width": "109'",
+                "lot_depth": "177'"
+            },
+            "building_amenities": {
+                "bike_storage": true,
+                "building_laundry": true,
+                "building_storage": true,
+                "courtyard": true,
+                "doorman": true,
+                "elevator": true,
+                "garage": true,
+                "garden": false,
+                "gym": true,
+                "pets": true,
+                "pool": false,
+                "prewar": false,
+                "rooftop": false
+            },
+            "views_and_exposures": {
+                "skyline_view": true
+            },
+            "features": {
+                "new_development": false,
+                "sponsor_unit": false
+            },
+            "policies": {
+                "board_approval_required": true,
+                "pied_a_terre": true,
+                "renting_allowed": true
+            }
+        }
+    ]
+}
