@@ -54,5 +54,5 @@ The app is configured with husky for pre-commit hooks along with lint-staged. Cu
 
 ## Disclaimer: 
 
-If there is an emergency and you are not able to resolve linting issues then you can use --force flag while pushing your changes.
+If there is an emergency and you are not able to resolve linting issues, pass tests then you can use `--force` flag while pushing your changes.
 
